@@ -21,6 +21,7 @@
 - `$ exit` => To leave container
 - `$ python3 -m venv venv` => To create a virtualenv
 - `$ source venv/bin/activate` => To activate virtualenv
+- `$ pip install --upgrade pip` => To upgrade pip to latest version
 - `$ pip install -r requirements.txt` => To install dependencies
 - `$ pre-commit install` => To install git hooks
 
